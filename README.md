@@ -1,2 +1,2 @@
-# website desenvolvido para prestadores de serviços
+# Website desenvolvido para Prestadores de Serviços
 https://bruno-mkti.github.io/web-reparos-domesticos/
